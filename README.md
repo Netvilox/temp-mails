@@ -122,6 +122,7 @@ State as of 19.05.2025 (~76 sites)
 - https://fakemailgenerator.com/ - unofficial
 - https://fumail.co/ - unofficial
 - https://generator.email/ - unofficial
+- https://ghostinbox.net - unofficial  -
 - https://guerrillamail.com/ - semi-official
 - https://harakirimail.com/ - unofficial
 - https://inboxes.com/ - semi-official
